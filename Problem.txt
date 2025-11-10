@@ -1,0 +1,5 @@
+### Problem 1: Circular Linked List
+- Create a circular linked list
+- Can use singular or double linked list
+- Think of a problem where you can apply this logic to.
+- Use a CircularLinkedList class.
